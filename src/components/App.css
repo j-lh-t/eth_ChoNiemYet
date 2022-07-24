@@ -1,0 +1,27 @@
+
+
+#content{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.AddPr{
+    margin: auto;
+    width: 600px;
+    padding: 50px;
+    margin: 10px auto 10px auto;
+    border-style: dotted;
+    border-radius: 100px;
+}
+.BuyPr{
+    margin: auto;
+    width: 900px;
+    padding: 50px;
+    margin: 10px auto 10px auto;
+    border-style:groove;
+    border-radius: 100px;
+
+}
